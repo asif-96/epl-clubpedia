@@ -1,2 +1,2 @@
-This is my first "react-router-project" with Programming Hero Team. The name of my project is "Clubs Tracker". Here I've used thesportsdb API for showing list of clubs specially "EPL" clubs in my project. User will be able to see each club details which they want to see.
-Live website link given in about section on github.
+This is my first "react-router-project" with Programming Hero Team. The name of my project is "EPL clubpedia". Here I've used thesportsdb API for showing list of clubs specially "EPL" clubs in my project. User will be able to see each club details which they want to see.
+Live website link given in about section on github repository.
