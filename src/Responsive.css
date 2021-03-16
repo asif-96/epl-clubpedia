@@ -1,0 +1,21 @@
+@media (min-width: 481px) and (max-width: 767px) {
+  
+    .teamDiv{
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .top-info-div{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .bottom-info-div{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    
+  }
+  
